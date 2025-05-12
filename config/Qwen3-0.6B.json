@@ -1,0 +1,12 @@
+{
+    "data_path": "/home/yu/.yu/.cache/others/datasets/AISAD",
+    "need_val": false,
+    "need_test": true,
+    "result_path": "./result",
+    "prompt_max_seq_len": 100,
+    "max_seq_len": 500,
+    "model_name": "Qwen/Qwen3-0.6B",
+    "ppl_limit": 1000,
+    "ppl_threshold": 130,
+    "ppl_scale": 5
+}
